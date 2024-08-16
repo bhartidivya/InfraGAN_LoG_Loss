@@ -1,0 +1,1 @@
+# InfraGAN_LoG_Loss
